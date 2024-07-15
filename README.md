@@ -4,11 +4,17 @@
 
 Software Engineer | Strong foundation in HTML/CSS, React-Js FrontEnd Development. I am looking forward to my first work experience.
 
-Skills: REACT / JS / HTML / CSS/GSAP/GIT/DOCKER
+## Skills and Experience
+* ⚛  React
+* 💻 HTML, CSS, JS
+* 🐱‍🏍 Gsap
+* 🗂  Git
+* 🪁 Docker
+  
 
 - 🔭 I’m currently working on 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐄𝐦𝐩𝐨𝐰𝐞𝐫𝐦𝐞𝐧𝐭 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧[Internship] 
-- 🌱 I’m currently learning MERN STACK/PYTON 
-- 📫 How to reach me: Gmail/Linkdin 
+- 🌱 I’m currently learning MERN STACK/PYTHON 
+- 📫 How to reach me: Gmail/Linkedin 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Tahirsultan777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/m-tahir-sultan-ba5b10236/)  
