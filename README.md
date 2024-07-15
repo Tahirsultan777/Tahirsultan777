@@ -20,16 +20,16 @@ Software Engineer | Strong foundation in HTML/CSS, React-Js FrontEnd Development
 ### About Me
 - 🔭 I’m currently working on **Digital Empowerment Pakistan [Internship]**
 - 🌱 I’m currently learning **MERN STACK** and **Python**
-- 📫 How to reach me: [Gmail](mtahirsultan65@gmail.com) / [LinkedIn](https://www.linkedin.com/in/m-tahir-sultan-ba5b10236/)
+- 📫 How to reach me: [Gmail](mailto:mtahirsultan65@gmail.com) / [LinkedIn](https://www.linkedin.com/in/m-tahir-sultan-ba5b10236/)
 ### Contact Me
-- **Gmail:** [mtahirsultan65@gmail.com](mtahirsultan65@gmail.com)
+- **Gmail:** [mtahirsultan65@gmail.com](mailto:mtahirsultan65@gmail.com)
 - **LinkedIn:** [linkedin.com/m-tahir-sultan](https://www.linkedin.com/in/m-tahir-sultan-ba5b10236/)
   <br>
   <br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tahirsultan777) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/m-tahir-sultan-ba5b10236/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mtahirsultan65@gmail.com) &nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:mtahirsultan65@gmail.com) &nbsp;&nbsp;
 
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ ) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ /) 
