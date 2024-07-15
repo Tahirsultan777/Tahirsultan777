@@ -6,7 +6,7 @@ Software Engineer | Strong foundation in HTML/CSS, React-Js FrontEnd Development
 
 <!--👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.-->
 👨‍🎓 Studied Bs Software Engineering at the Minhaj University of Lahore.<br>
-🎯Bachelor's Degree in <b>Bs Software Engineering</b> - Key Learnings Are.
+🎯During Bachelor's Degree in <b>Bs Software Engineering</b> - Key Learnings Are.
 ## Skills and Experience
 * ⚛  React
 * 💻 HTML, CSS, JS
