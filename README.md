@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D03AQEzvk3hPxyAfw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1722406668809?e=1752105600&v=beta&t=maLlMANY0DHTnwyS_38MWorOdk4v9Z-QcGKmhxAbyD4" width="300"  height="300"alt="Profile" />
-</p>
+</p> -->
 
 <h1 align="center">Hi there 👋, I'm <strong>Muhammad Tahir Sultan</strong></h1>
 <h3 align="center">Aspiring Web Developer | React Frontend Enthusiast | Lahore, Pakistan</h3>
