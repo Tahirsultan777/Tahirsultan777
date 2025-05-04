@@ -18,7 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" /> JavaScript  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" /> React  
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge" width="24" height="17" />
- Tailwind CSS  
+Tailwind CSS  
 
 ### Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" /> Git  
@@ -49,10 +49,10 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a frontend developer and computer science graduate based in Lahore. I love creating intuitive, interactive interfaces and continuously learning new skills to stay at the edge of frontend tech.
+I'm a frontend developer and Software Engineering graduate based in Lahore. I love creating intuitive, interactive interfaces and continuously learning new skills to stay at the edge of frontend tech.
 
-- 🎓 Bachelor's in Computer Science  
-- 🌱 Learning Next.js, GraphQL, and performance optimizations  
+- 🎓 Bachelor's in Software Engineering 
+- 🌱 Learning Next.js, Python, AI, GraphQL, and performance optimizations  
 - 🎯 Aiming to grow as a full-stack developer  
 
 ---
@@ -60,13 +60,13 @@ I'm a frontend developer and computer science graduate based in Lahore. I love c
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/MuhammadTahirSultan">
+  <a href=["https://github.com/MuhammadTahirSultan"](https://github.com/Tahirsultan777)>
     <img src="https://img.shields.io/badge/GitHub-MuhammadTahirSultan-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/MuhammadTahirSultan">
+  <a href="[https://linkedin.com/in/MuhammadTahirSultan](https://www.linkedin.com/in/m-tahir-sultan1/)">
     <img src="https://img.shields.io/badge/LinkedIn-MuhammadTahirSultan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:hello@muhammadtahir.dev">
+  <a href="mailto:mtahirsultan65@gmail.com">
     <img src="https://img.shields.io/badge/Email-hello@muhammadtahir.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/MuhammadTS">
