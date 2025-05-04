@@ -61,10 +61,10 @@ I'm a frontend developer and Software Engineering graduate based in Lahore. I lo
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href=["https://github.com/MuhammadTahirSultan"](https://github.com/Tahirsultan777)>
+  <a href="https://github.com/Tahirsultan777" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-MuhammadTahirSultan-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[https://linkedin.com/in/MuhammadTahirSultan](https://www.linkedin.com/in/m-tahir-sultan1/)">
+  <a href="https://www.linkedin.com/in/m-tahir-sultan1/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-MuhammadTahirSultan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mtahirsultan65@gmail.com">
