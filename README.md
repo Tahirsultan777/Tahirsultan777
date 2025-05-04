@@ -2,8 +2,8 @@
   <img src="https://media.licdn.com/dms/image/v2/D4D03AQEzvk3hPxyAfw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1722406668809?e=1752105600&v=beta&t=maLlMANY0DHTnwyS_38MWorOdk4v9Z-QcGKmhxAbyD4" width="300"  height="300"alt="Profile" />
 </p>
 
-<h1 align="center">👋 Hello, I'm <strong>Muhammad Tahir Sultan</strong></h1>
-<h3 align="center">🚀 Frontend Developer | Lahore, Pakistan</h3>
+<h1 align="center">Hi there 👋, I'm <strong>Muhammad Tahir Sultan</strong></h1>
+<h3 align="center">Aspiring Web Developer | React Frontend Enthusiast | Lahore, Pakistan</h3>
 <p align="center">
   Passionate about crafting responsive, accessible, and user-friendly web applications using modern tools and technologies.
 </p>
@@ -24,7 +24,8 @@ Tailwind CSS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" /> Git  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" /> GitHub  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="24" /> NPM  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" /> VSCode  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" /> VSCode 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
 
 ### Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" /> TypeScript  
