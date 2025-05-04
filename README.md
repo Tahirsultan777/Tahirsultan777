@@ -1,40 +1,75 @@
-### Hi there 👋, My Name Is Muhammad Tahir Sultan
-#### WEB DEVELOPER
-![WEB DEVELOPER](https://media.licdn.com/dms/image/D4D16AQFHIl9wvipZqA/profile-displaybackgroundimage-shrink_350_1400/0/1721033342121?e=1726704000&v=beta&t=ML4de29mFIVYRlEm3TTnBCHW4GAdA2dRks_V7NIfBgc)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQEzvk3hPxyAfw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1722406668809?e=1752105600&v=beta&t=maLlMANY0DHTnwyS_38MWorOdk4v9Z-QcGKmhxAbyD4" width="300"  height="300"alt="Profile" />
+</p>
 
-Software Engineer | Strong foundation in HTML/CSS, React-Js FrontEnd Development. I am looking forward to my first work experience.
+<h1 align="center">👋 Hello, I'm <strong>Muhammad Tahir Sultan</strong></h1>
+<h3 align="center">🚀 Frontend Developer | Lahore, Pakistan</h3>
+<p align="center">
+  Passionate about crafting responsive, accessible, and user-friendly web applications using modern tools and technologies.
+</p>
 
-<!--👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.-->
-👨‍🎓 Studied Bs Software Engineering at the Minhaj University of Lahore.<br>
-🎯During Bachelor's Degree in <b>Bs Software Engineering</b> - Key Learnings Are...
-## Skills and Experience
-<br>
+---
 
-* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-* ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-* ![GSAP](https://img.shields.io/badge/GSAP-%23green.svg?style=for-the-badge&logo=greensock&logoColor=white)
-* ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-* ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## 🛠️ Tech Stack
 
-### About Me
-- 🔭 I’m currently working on **Digital Empowerment Pakistan [Internship]**
-- 🌱 I’m currently learning **MERN STACK** and **Python**
-- 📫 How to reach me: [Gmail](mailto:mtahirsultan65@gmail.com) / [LinkedIn](https://www.linkedin.com/in/m-tahir-sultan-ba5b10236/)
-### Contact Me
-- **Gmail:** [mtahirsultan65@gmail.com](mailto:mtahirsultan65@gmail.com)
-- **LinkedIn:** [linkedin.com/m-tahir-sultan](https://www.linkedin.com/in/m-tahir-sultan-ba5b10236/)
-  <br>
-  <br>
+### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" /> HTML5  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" /> CSS3  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" /> JavaScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" /> React  
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge" width="24" height="17" />
+ Tailwind CSS  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tahirsultan777) &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/m-tahir-sultan-ba5b10236/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:mtahirsultan65@gmail.com) &nbsp;&nbsp;
+### Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" /> Git  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" /> GitHub  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="24" /> NPM  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" /> VSCode  
 
-<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ ) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ /) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/v) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/ ) -->
- 
+### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" /> TypeScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" /> Python  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" /> C++  
 
+---
 
+## 🚀 Currently Working On
+- 🌐 Building my Next.js Portfolio with Tailwind CSS
+- 🔧 Developing a reusable React UI Component Library
+- 👥 Contributing to open source projects
+- 📚 Deep diving into TypeScript and web accessibility
+
+---
+
+## 📁 Notable Projects
+- 💻 **Portfolio Website** — A sleek, modern React-based portfolio  
+- 🛒 **E-commerce UI** — A demo frontend for online store  
+- 📊 **Analytics Dashboard** — Data visualization app with Chart.js and D3.js  
+
+---
+
+## 👨‍💻 About Me
+I'm a frontend developer and computer science graduate based in Lahore. I love creating intuitive, interactive interfaces and continuously learning new skills to stay at the edge of frontend tech.
+
+- 🎓 Bachelor's in Computer Science  
+- 🌱 Learning Next.js, GraphQL, and performance optimizations  
+- 🎯 Aiming to grow as a full-stack developer  
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/MuhammadTahirSultan">
+    <img src="https://img.shields.io/badge/GitHub-MuhammadTahirSultan-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/MuhammadTahirSultan">
+    <img src="https://img.shields.io/badge/LinkedIn-MuhammadTahirSultan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hello@muhammadtahir.dev">
+    <img src="https://img.shields.io/badge/Email-hello@muhammadtahir.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/MuhammadTS">
+    <img src="https://img.shields.io/badge/Twitter-@MuhammadTS-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
