@@ -43,8 +43,7 @@
 
 ## 📁 Notable Projects
 - 💻 **Portfolio Website** — A sleek, modern React-based portfolio  
-- 🛒 **E-commerce UI** — A demo frontend for online store  
-- 📊 **Analytics Dashboard** — Data visualization app with Chart.js and D3.js  
+- 🛒 **E-commerce UI** — A demo frontend for online store   
 
 ---
 
@@ -52,7 +51,7 @@
 I'm a frontend developer and Software Engineering graduate based in Lahore. I love creating intuitive, interactive interfaces and continuously learning new skills to stay at the edge of frontend tech.
 
 - 🎓 Bachelor's in Software Engineering 
-- 🌱 Learning Next.js, Python, AI, GraphQL, and performance optimizations  
+- 🌱 Learning Next.js, Python, AI, and performance optimizations  
 - 🎯 Aiming to grow as a full-stack developer  
 
 ---
